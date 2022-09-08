@@ -1,8 +1,8 @@
 # Project 1 HTML and CSS
 
-![Badge]()
+![Badge](https://img.shields.io/badge/Project--02-Restraurant-green)
 
-# [Link of live project]()
+# [Link of live Project]()
 
 ![LCO](./img/LandingPage-2.png)
 
